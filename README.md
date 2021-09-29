@@ -1,1 +1,1 @@
-# git-new-repo
+this is a new repository for learning
